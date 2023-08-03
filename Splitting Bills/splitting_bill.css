@@ -1,0 +1,21 @@
+#box{
+    border: 2px solid black;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 25px;
+    background-color: #80808029;
+    margin: 73px 575px;
+}
+input[type = submit]{
+    padding: 11px 36px;
+    background-color: #ffe900;
+    margin: 50px;
+}
+input[type = number]{
+    height: 30px;
+    border-radius: 10px;
+}
+.quest{
+    margin: 10px 37px;
+}
